@@ -62,7 +62,7 @@ ul {
     max-width: 550px;
     text-align: left;
     line-height: 1.5;
-    margin-left: 300px;
+    margin: 0 auto;
 }
 li {
     margin: 16px 0;
